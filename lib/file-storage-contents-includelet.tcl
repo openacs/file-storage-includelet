@@ -6,7 +6,7 @@ ad_page_contract {
     re-using a lot of code from file-storage-includelet
 
     @author Arjun Sanyal (arjun@openforce.net)
-    @version $Id$
+    @cvs-id $Id$
 
 }
 
